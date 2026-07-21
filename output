@@ -1,0 +1,25 @@
+====== COURSE REGISTRATION ======
+
+1.View Courses
+
+2.Register Course
+
+3.Drop Course
+
+4.View Registered Courses
+
+5.Exit
+
+Enter Choice : 2
+
+Enter Course Code : CS101
+
+Course Registered Successfully
+
+----------------------------
+
+Enter Choice : 4
+
+Registered Courses
+
+CS101
